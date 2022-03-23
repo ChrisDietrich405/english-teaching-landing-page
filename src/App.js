@@ -128,7 +128,11 @@ function App() {
             <img className="testimonial-pic-fab" src={Rodrigo} />
             <div className="quote-container">
               <p>
-                "Meu ingles nunca foi tao bom. Devo muito ao Chris, obrigado."
+                "Meu inglês nunca foi tão bom. Estou confiante para fazer
+                entrevistas, meu LinkedIn está bem traduzido, recebi grande
+                ajuda nas correções de texto aos projetos profissionais e
+                finalmente em 2020 trabalhei para empresas americanas. Sou muito
+                grato ao Chris, obrigado, brother :)"
               </p>
               <footer>Rodrigo Pitorri</footer>
             </div>
